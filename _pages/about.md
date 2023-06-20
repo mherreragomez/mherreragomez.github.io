@@ -14,5 +14,4 @@ I am a Doctor in Economics (European Doctor Mention, "Cum Laude") at [Zaragoza U
 
 My main research interests include spatial analysis and spatial econometrics (theoretical and applied), static and dynamic panel data models with spatial effects. On this Website you will find some information about my academic activities.
 
-
 Please, if you have any questions feel free to contact me by [e-mail](mherreragomez@gmail.com).
