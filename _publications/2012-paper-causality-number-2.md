@@ -1,7 +1,7 @@
 ---
 title: "Spatial partial causality"
 collection: publications
-permalink: /publication/2022-paper-causality
+permalink: /publication/2012-paper-causality-number-2
 excerpt: ''
 date: 2022-May
 venue: 'The European Physical Journal Special Topics'
