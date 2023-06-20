@@ -1,9 +1,9 @@
 ---
 title: "Spatial dependence in physicians’ prices and additional fees: Evidence from France"
 collection: publications
-permalink: /publication/2023-paper-physicians
+permalink: /publication/2023-01-01-paper-physicians
 excerpt: ''
-date: 2023-march
+date: 2023-01-01
 venue: 'Journal of Health Economics'
 paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S0167629623000012'
 ---
