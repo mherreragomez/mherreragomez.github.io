@@ -13,6 +13,5 @@ Recommended citation:
 
 Montmartin, B., & Herrera-Gomez, M. (2023). Spatial dependence in physicians’ prices and additional fees: Evidence from France. <i>Journal of Health Economics<i>, Volume 88, 102724.
 
----
 [link to paper](https://www.sciencedirect.com/science/article/abs/pii/S0167629623000012)
----
+
