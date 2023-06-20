@@ -15,8 +15,8 @@ I was Visiting Researcher at the ISAE, Istituto di Studies e Analisi Economica (
 
 Education
 ======
-* B.A. Economics, National University of Río Cuarto, Argentina (2002).
-* M.A. Economics, National University of Tucumán, Argentina (2005).
+* B.A. Economics, National University of Rio Cuarto, Argentina (2002).
+* M.A. Economics, National University of Tucuman, Argentina (2005).
 * M.A. Economics, University of Zaragoza, Spain (2009).
 * Doctor in Economics (European Doctor Mention), University of Zaragoza, Spain (2011).
 Topic: Spatial Econometrics.
@@ -29,8 +29,9 @@ Work experience
   
 Skills
 ======
-* R
 * Matlab
+* Python
+* R
 * Stata
 
 Publications
