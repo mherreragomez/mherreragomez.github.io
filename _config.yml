@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Marcos Herrera-Gómez"
 title_separator          : "-"
-name                     : &name "Marcos HG"
+name                     : &name "Marcos Herrera-Gómez"
 description              : &description "Research Scientist at CONICET-UNRC"
 url                      : https://mherreragomez.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  name             : "Marcos HG"
+  avatar           : "foto perfil 2023 enero.png"
+  bio              : "Doctor in Economics (expertise Spatial Analysis and Spatial Econometrics)"
+  location         : "Río Cuarto (Córdoba, Argentina)"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : 
+  googlescholar    : "https://scholar.google.com/citations?hl=es&user=BkqzB_sAAAAJ"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Marcos-Herrera-Gomez-2"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "mherreragomez"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-5385-2675"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "mherreragomez"
   vine             :
   weibo            :
   xing             :
