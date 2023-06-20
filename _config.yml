@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Marcos Herrera-Gómez"
 title_separator          : "-"
 name                     : &name "Marcos Herrera-Gómez"
-description              : &description "Research Scientist at CONICET-UNRC"
+description              : &description "Professor at Economics-UNRC"
 url                      : https://mherreragomez.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mherreragomez/mherreragomez.github.io"
@@ -81,8 +81,8 @@ analytics:
 # Site Author
 author:
   name             : "Marcos HG"
-  avatar           : "foto perfil 2023 enero.png"
-  bio              : "Doctor in Economics (expertise Spatial Analysis and Spatial Econometrics)"
+  avatar           : "foto perfil 2023 enero.jpeg"
+  bio              : "Doctor in Economics (Spatial Analysis and Spatial Econometrics)"
   location         : "Río Cuarto (Córdoba, Argentina)"
   employer         :
   pubmed           : 
