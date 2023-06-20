@@ -1,9 +1,9 @@
 ---
-title: "Spatial partial causality"
+title: "Inter‐provincial trade in Argentina: Financial flows and centralism"
 collection: publications
 permalink: /publication/2022-12-01-paper-intertrade
 excerpt: ''
-date: 2022-May
+date: 2022-12-01
 venue: 'Regional Science Policy & Practice'
 paperurl: 'https://rsaiconnect.onlinelibrary.wiley.com/doi/abs/10.1111/rsp3.12507'
 ---
