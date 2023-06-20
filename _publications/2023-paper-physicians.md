@@ -11,4 +11,4 @@ Abstract: 'Concerns about healthcare affordability have grown in France as physi
 
 Recommended citation: 
 
-Montmartin, B., & Herrera-Gomez, M. (2023). Spatial dependence in physicians’ prices and additional fees: Evidence from France. Journal of Health Economics, Volume 88, 102724.
+Montmartin, B., & Herrera-Gomez, M. (2023). Spatial dependence in physicians’ prices and additional fees: Evidence from France. <i>Journal of Health Economics<i>, Volume 88, 102724.
