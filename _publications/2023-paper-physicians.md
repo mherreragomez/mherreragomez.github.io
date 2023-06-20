@@ -6,27 +6,7 @@ excerpt: 'Concerns about healthcare affordability have grown in France as physic
 date: 2023-march
 venue: 'Journal of Health Economics'
 paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S0167629623000012'
-citation: '@article{montmartin_herrera,
-title = {Spatial dependence in physicians’ prices and additional fees: Evidence from France},
-journal = {Journal of Health Economics},
-volume = {88},
-pages = {102724},
-year = {2023},
-issn = {0167-6296},
-doi = {https://doi.org/10.1016/j.jhealeco.2023.102724},
-url = {https://www.sciencedirect.com/science/article/pii/S0167629623000012},
-author = {Benjamin Montmartin and Marcos Herrera-Gómez},
-}'
+citation: 'Montmartin, B., & Herrera-Gomez, M. (2023). Spatial dependence in physicians’ prices and additional fees: Evidence from France. Journal of Health Economics, 102724.'
 ---
 
-Recommended citation: @article{montmartin_herrera,
-title = {Spatial dependence in physicians’ prices and additional fees: Evidence from France},
-journal = {Journal of Health Economics},
-volume = {88},
-pages = {102724},
-year = {2023},
-issn = {0167-6296},
-doi = {https://doi.org/10.1016/j.jhealeco.2023.102724},
-url = {https://www.sciencedirect.com/science/article/pii/S0167629623000012},
-author = {Benjamin Montmartin and Marcos Herrera-Gómez},
-}.
+Recommended citation: Montmartin, B., & Herrera-Gomez, M. (2023). Spatial dependence in physicians’ prices and additional fees: Evidence from France. Journal of Health Economics, 102724.
