@@ -19,9 +19,9 @@ Topic: Spatial Econometrics.
 
 Work experience
 ======
-* Titular Professor at Economic Faculty, UNRC (Argentina)
+* Titular Professor at [Economic Faculty, UNRC (Argentina)](https://www.eco.unrc.edu.ar/)
 
-* Independent Researcher (Research Fellow) at CONICET (Argentina)
+* Independent Researcher at [CONICET (Argentina)}(https://www.conicet.gov.ar/)
   
 Skills
 ======
