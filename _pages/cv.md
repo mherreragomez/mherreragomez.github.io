@@ -21,7 +21,7 @@ Work experience
 ======
 * Titular Professor at [Economic Faculty, UNRC (Argentina)](https://www.eco.unrc.edu.ar/)
 
-* Independent Researcher at [CONICET (Argentina)}(https://www.conicet.gov.ar/)
+* Independent Researcher at [CONICET (Argentina)](https://www.conicet.gov.ar/)
   
 Skills
 ======
