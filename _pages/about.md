@@ -17,4 +17,5 @@ My Ph.D.'s thesis was about Causality: Contributions to Spatial Econometrics (20
 Since November 2012, I hold a research position at CONICET (Argentina). Also, since December 2022, I am Titular Professor at the Faculty of Economic Sciences, National University of Rio Cuarto, Cordoba. 
 
 My main research interests include spatial econometrics (theoretical and applied), panel data with spatial effects and multilevel analysis. On this Website you will find some information about my academic activities.
+
 Please, if you have any questions feel free to contact me by [e-mail](mherreragomez@gmail.com).
