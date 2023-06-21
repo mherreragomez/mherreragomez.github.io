@@ -12,7 +12,7 @@ Welcome to my personal Website.
 
 I am a Doctor in Economics (European Doctor Mention, "Cum Laude") at [Zaragoza University (Spain)](https://escueladoctorado.unizar.es/) with expertise in Spatial econometrics and Geographic Data Analysis. 
 
-My main research interests include spatial analysis and spatial econometrics (theoretical and applied), static and dynamic panel data models with spatial effects, and extensions to Geographic Data Science. 
+My main research interests include Spatial Analysis and Spatial Econometrics (theoretical and applied), topics of Economic Geography and Regional Science, with extensions to Geographic Data Science. 
 
 On this Website you will find some information about my academic activities.
 
