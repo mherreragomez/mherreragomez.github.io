@@ -16,4 +16,4 @@ My main research interests include Spatial Analysis and Spatial Econometrics (th
 
 On this Website you will find some information about my academic activities.
 
-Please, if you have any questions feel free to contact me by [mherreragomez@gmail.com](mailto:mherreragomez@gmail.com).
+Please, if you have any questions feel free to contact me by e-mail: [mherreragomez@gmail.com](mailto:mherreragomez@gmail.com).
