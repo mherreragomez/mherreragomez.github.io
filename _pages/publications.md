@@ -30,7 +30,7 @@ Este trabajo analiza modelos espaciales dinámicos en datos de panel, incorporan
 
 ## Journal publications
 
-**Basso, A. & Herrera-Gómez, M. (2024)**  
+**Montmartin, B. & Herrera-Gómez, M. (2024)**  
 *Título del artículo.* *Nombre de la revista.*
 
 - Métodos: SAR, SDM, System GMM  
