@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Marcos Herrera-Gómez"
 title_separator          : "-"
 name                     : &name "Marcos Herrera-Gómez"
-description              : &description "Professor at Economics-UNRC"
+description              : &description "Econometría Espacial y Ciencia de Datos Regional"
 url                      : https://mherreragomez.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mherreragomez/mherreragomez.github.io"
@@ -80,11 +80,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Marcos HG"
+  name             : "Marcos Herrera Gómez"
   avatar           : "foto perfil 2023 enero.jpeg"
-  bio              : "Doctor in Economics (Spatial Econometrics - Economic Geography - Regional Science)"
+  bio              : "Doctor en Economía (Spatial Econometrics -  Regional Data Science)"
   location         : "Río Cuarto (Córdoba, Argentina)"
-  employer         :
+  employer         : "Universidad Nacional de Río Cuarto"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=es&user=BkqzB_sAAAAJ"
   email            :
