@@ -1,5 +1,5 @@
 ---
-title: "Econometría Espacial"
+title: "Econometría Espacial (Spatial Econometrics)"
 collection: teaching
 type: "Curso"
 permalink: /teaching/2023-spatialecon-udesa
@@ -8,4 +8,4 @@ date: 2023-10-01
 location: "Buenos Aires, Argentina"
 ---
 
-El material será puesto a disposición a la brevedad.
+The material will be made available shortly.
