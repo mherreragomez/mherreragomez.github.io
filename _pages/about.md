@@ -8,14 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-Soy **Doctor en Economía** (European Doctor Mention, "Cum Laude") de [Zaragoza University (Spain)](https://escueladoctorado.unizar.es/), profesor e investigador en la Universidad Nacional de Río Cuarto.
+I am a **Doctor in Economics** (European Doctor Mention, "Cum Laude") from [Zaragoza University (Spain)](https://escueladoctorado.unizar.es/), and a professor and researcher at the Universidad Nacional de Río Cuarto.
 
-Mi trabajo se especializa en **econometría espacial, ciencia de datos regional y métodos econométricos aplicados**, con énfasis en modelos espaciales y dinámicos, simulaciones Monte Carlo y aplicaciones empíricas en economía regional y políticas públicas.
+My work specializes in **spatial econometrics, regional data science and applied econometric methods**, with an emphasis on spatial and dynamic models, Monte Carlo simulations and empirical applications in regional economics and public policy.
 
-Mis intereses de investigación incluyen:
-- Econometría espacial
-- Ciencia de Datos Espaciales
-- Modelos de panel dinámicos
-- Economía regional
+My research interests include:
+- Spatial econometrics
+- Spatial Data Science
+- Dynamic panel models
+- Regional economics
 
-Por favor, si tienes alguna inquietud, escríbme por e-mail: [mherreragomez@gmail.com](mailto:mherreragomez@gmail.com).
+If you have any questions, please write to me by e-mail: [mherreragomez@gmail.com](mailto:mherreragomez@gmail.com).
