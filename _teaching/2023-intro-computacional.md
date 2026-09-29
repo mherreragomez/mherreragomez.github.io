@@ -1,5 +1,5 @@
 ---
-title: "Introducción a Métodos Computacionales"
+title: "Introducción a Métodos Computacionales (Introduction to Computational Methods)"
 collection: teaching
 type: "Curso de Posgrado"
 permalink: /teaching/2023-intro-computacional
@@ -8,4 +8,4 @@ date: 2023-04-01
 location: "Río Cuarto, Argentina"
 ---
 
-El material está disponible solo para alumnos inscriptos formalmente.
+The material is available only to formally enrolled students.
